@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/AllySantos/AllySantos/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Oie, é um prazer ter você por aqui! 👋
