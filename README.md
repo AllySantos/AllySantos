@@ -1,3 +1,6 @@
+![Snake animation](https://github.com/AllySantos/AllySantos/blob/output/github-contribution-grid-snake.svg)
+
+
 ## Oie, é um prazer ter você por aqui! 👋
 
 
@@ -20,6 +23,9 @@ Meu foco é a parte de backend, mas nada me impede de, de vez em quando, criar a
 <br />
 <br />
 
+
+
+    
 #### 📞 Você pode me encontrar por aqui!
 <div>
 <a href = "mailto:aliciasantos667@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
